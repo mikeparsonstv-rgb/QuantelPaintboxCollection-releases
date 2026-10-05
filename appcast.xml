@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Paintbox Collection</title>
+    <link>https://github.com/mikeparsonstv-rgb/QuantelPaintboxCollection-releases</link>
+    <description>Quantel Paintbox Collection — AI Nostalgia Edition</description>
+    <language>en</language>
+    <item>
+      <title>Paintbox Collection 2026.10.5</title>
+      <pubDate>Mon, 05 Oct 2026 16:21:52 -0000</pubDate>
+      <sparkle:version>202610051327</sparkle:version>
+      <sparkle:shortVersionString>2026.10.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First test release of the Quantel Paintbox Collection: Digital Paint Box, Paintbox V-Series, Harry, HAL and Henry, chosen from one loading screen.</li>
+<li>The picture goes to the screen through Metal, on the display's own clock.</li>
+<li>Apple silicon Macs, macOS 26 or later. Updates arrive through Paintbox Collection › Check for Updates…</li></ul>]]></description>
+      <enclosure url="https://github.com/mikeparsonstv-rgb/QuantelPaintboxCollection-releases/releases/download/2026.10.5/PaintboxCollection-2026.10.5.zip" sparkle:edSignature="AqFtcjvKCLdqM10yYZW34+gL2BXrQpP78QqLgCB0E6RO+vMnfPK/XZKZGe6BlvcrksFFVY6yWOsJ5jevS0T+AQ==" length="93613111" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
