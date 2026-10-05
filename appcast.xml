@@ -6,6 +6,18 @@
     <description>Quantel Paintbox Collection — AI Nostalgia Edition</description>
     <language>en</language>
     <item>
+      <title>Paintbox Collection 2026.10.5.2</title>
+      <pubDate>Mon, 05 Oct 2026 21:05:57 -0000</pubDate>
+      <sparkle:version>202610052204</sparkle:version>
+      <sparkle:shortVersionString>2026.10.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>NEW: Digital Fine Art (DFA-7000, 1981 V1), the prototype that became the Paint Box, first in the machine list: the palette along the foot of the frame, paint, wash, texture and clear, four brush sizes, and the terminal.</li>
+<li>⌘F fills the screen and blacks out the desktop around the picture (wallpaper, icons, Dock and menu bar); ⌘F again or quitting brings it all back. HIDE DESKTOP on the full pages turns this off.</li>
+<li>SELECT FOLDER on the Paintbox full page (V-Series, DPB, HAL) picks the framestore folder at once; SELECT MACHINE on Harry's setup page goes back to the loading screen.</li>
+<li>Apple silicon Macs, macOS 26 or later. Updates arrive through Paintbox Collection › Check for Updates…</li></ul>]]></description>
+      <enclosure url="https://github.com/mikeparsonstv-rgb/QuantelPaintboxCollection-releases/releases/download/2026.10.5.2/PaintboxCollection-2026.10.5.2.zip" sparkle:edSignature="JZVFViwELebIGdDXwpZ08ip7wEoToi46hiPUhVv3D1sfYbcer+UD4gjjocr4UQAV5ZQ67qU169tVWEI0n6ejBA==" length="94209980" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Paintbox Collection 2026.10.5</title>
       <pubDate>Mon, 05 Oct 2026 16:21:52 -0000</pubDate>
       <sparkle:version>202610051327</sparkle:version>
