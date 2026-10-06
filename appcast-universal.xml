@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Paintbox Collection (Universal)</title>
+    <link>https://github.com/mikeparsonstv-rgb/QuantelPaintboxCollection-releases</link>
+    <description>Quantel Paintbox Collection — AI Nostalgia Edition — Universal (macOS 15+, Apple silicon and Intel)</description>
+    <language>en</language>
+    <item>
+      <title>Paintbox Collection (Universal) 2026.10.6</title>
+      <pubDate>Tue, 06 Oct 2026 11:04:01 -0000</pubDate>
+      <sparkle:version>202610061201</sparkle:version>
+      <sparkle:shortVersionString>2026.10.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>UNIVERSAL edition of the Quantel Paintbox Collection: the same six machines (Digital Fine Art, Digital Paint Box, Paintbox V-Series, Harry, HAL, Henry) and the same Metal display, built for macOS 15 Sequoia or later on both Apple silicon and Intel Macs.</li>
+<li>Pixel-identical to the Apple-silicon release on Apple silicon. On Intel Macs the paint maths runs natively (no Rosetta); a discrete-GPU Mac uses managed Metal memory for the canvas.</li>
+<li>This edition updates on its own feed — it will not offer you the macOS 26 release, and that release will not offer you this one. Updates arrive through Paintbox Collection › Check for Updates…</li></ul>]]></description>
+      <enclosure url="https://github.com/mikeparsonstv-rgb/QuantelPaintboxCollection-releases/releases/download/universal-2026.10.6/PaintboxCollection-Universal-universal-2026.10.6.zip" sparkle:edSignature="At7xYPSMMSaEjF6VSnFhFLgXUscKXmtnQqPJJ27jZL9d74NsspHsKR1V8HylzIkO9+9ItnNTA58LLV1jUsSsDQ==" length="176833075" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
