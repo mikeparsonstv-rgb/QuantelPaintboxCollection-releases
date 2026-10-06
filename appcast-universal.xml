@@ -6,6 +6,17 @@
     <description>Quantel Paintbox Collection — AI Nostalgia Edition — Universal (macOS 15+, Apple silicon and Intel)</description>
     <language>en</language>
     <item>
+      <title>Paintbox Collection (Universal) 2026.10.6.2</title>
+      <pubDate>Tue, 06 Oct 2026 13:19:34 -0000</pubDate>
+      <sparkle:version>202610061416</sparkle:version>
+      <sparkle:shortVersionString>2026.10.6.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>"Check for Updates…" is now in the Paintbox Collection menu of the loading screen, under About (it was missing in every build so far). Updates are checked from the loading screen, not from inside a machine.</li>
+<li>From 2026.10.6.1: the loading screen's machines open on macOS 15 Sequoia and later (they wrongly asked for macOS 26).</li>
+<li>The Universal edition: six machines, the Metal display, Apple silicon and Intel, on this edition's own update feed.</li></ul>]]></description>
+      <enclosure url="https://github.com/mikeparsonstv-rgb/QuantelPaintboxCollection-releases/releases/download/universal-2026.10.6.2/PaintboxCollection-Universal-universal-2026.10.6.2.zip" sparkle:edSignature="UJNrfsxOdLvFnGzohXUNp6HljB5yjQoOpoQfKH/MBwOizscNbtTVRf+H5ar663uhgDTeNKhh4uaUN0hHQVfsCQ==" length="176833849" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Paintbox Collection (Universal) 2026.10.6.1</title>
       <pubDate>Tue, 06 Oct 2026 13:11:13 -0000</pubDate>
       <sparkle:version>202610061408</sparkle:version>
