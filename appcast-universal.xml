@@ -6,6 +6,16 @@
     <description>Quantel Paintbox Collection — AI Nostalgia Edition — Universal (macOS 15+, Apple silicon and Intel)</description>
     <language>en</language>
     <item>
+      <title>Paintbox Collection (Universal) 2026.10.7</title>
+      <pubDate>Wed, 07 Oct 2026 14:43:35 -0000</pubDate>
+      <sparkle:version>202610071541</sparkle:version>
+      <sparkle:shortVersionString>2026.10.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>The palette's mixing area works again (V-Series, DPB, Harry, HAL, Henry): a stroke paints the brush colour from where the pen went down, so colours can be laid in and mixed; a still tap picks the colour under the pen and paints nothing. (Since 2 Oct the press picked the colour under the pen and the stroke painted with it, so nothing new could be mixed.)</li>
+<li>Pots: a quick tap picks the pot's colour; hold for 0.6 s to drop the brush colour in.</li></ul>]]></description>
+      <enclosure url="https://github.com/mikeparsonstv-rgb/QuantelPaintboxCollection-releases/releases/download/universal-2026.10.7/PaintboxCollection-Universal-universal-2026.10.7.zip" sparkle:edSignature="yTdAAWpw6vG6CA+WsSk7sP9bedEpzTmRWaR0Zzvcx+VgzNv2HDX40nSSKIRDq6qvkappT0xWF8+ZLuHhX3C2CQ==" length="176830854" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Paintbox Collection (Universal) 2026.10.6.3</title>
       <pubDate>Tue, 06 Oct 2026 13:53:36 -0000</pubDate>
       <sparkle:version>202610061451</sparkle:version>
