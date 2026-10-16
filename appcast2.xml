@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Paintbox Collection 2</title>
+    <link>https://github.com/mikeparsonstv-rgb/QuantelPaintboxCollection-releases</link>
+    <description>Quantel Paintbox Collection 2 — AI Nostalgia Edition</description>
+    <language>en</language>
+    <item>
+      <title>Paintbox Collection 2 2.0</title>
+      <pubDate>Fri, 16 Oct 2026 21:31:52 -0000</pubDate>
+      <sparkle:version>202610162221</sparkle:version>
+      <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Paintbox Collection 2 — a new app: Digital Fine Art (DFA-7000), the Classic Paintbox (DPB 7000/1) and the Paintbox V-Series, chosen from one loading screen.</li>
+<li>New logos and welcome screens; each Paintbox opens on its welcome screen.</li>
+<li>The V-series chalk in every machine, the DFA included; the DFA cursor throughout.</li>
+<li>Paste-up: the direction pad comes up in the number pad's place; the position boxes drag and take typed values.</li>
+<li>Graphics: lines menu with stick, connected, h v only and radial; graduated rectangles with clear arrows; colour fettle DOIT.</li></ul>]]></description>
+      <enclosure url="https://github.com/mikeparsonstv-rgb/QuantelPaintboxCollection-releases/releases/download/collection2-2.0/PaintboxCollection2-collection2-2.0.zip" sparkle:edSignature="B6VvkvBhTEOtnVXhuUNRE3QsZevvNqN1nBEQZzSKC5xYVbOEZDjOli5czybQfsDeJnhF4nHtw3+f+QzhLtJGBw==" length="12283001" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
